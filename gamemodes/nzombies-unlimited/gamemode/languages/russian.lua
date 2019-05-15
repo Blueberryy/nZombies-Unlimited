@@ -1,4 +1,4 @@
--- Test
+-- Translated by Type 100
 
 translate.AddLanguage("ru", "Russian")
 
@@ -14,7 +14,7 @@ LANGUAGE.skin                        = "Скин"
 LANGUAGE.no_bodygroups               = "Для этой модели нет групп тела."
 LANGUAGE.player_color                = "Цвет Игрока"
 LANGUAGE.weapon_color                = "Цвет Оружия"
-LANGUAGE.load_celected_config        = "Загрузить Выбранный Конфиг"
+LANGUAGE.load_selected_config        = "Загрузить Выбранный Конфиг"
 LANGUAGE.no_action                   = "[Нет Действия]"
 LANGUAGE.no_config_selected          = "Конфиг не выбран"
 LANGUAGE.use_config_load             = "Используйте меню Загрузки Конфигов, чтобы выбрать Конфиг для загрузки."

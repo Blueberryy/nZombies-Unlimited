@@ -78,7 +78,7 @@ if CLIENT then
 			end
 		end
 
-		menu:AddReadyButtonFunction(translate.Get("load_celected_config"), 70, function()
+		menu:AddReadyButtonFunction(translate.Get("load_selected_config"), 70, function()
 			if menu:GetConfig() then
 				local cfg = menu:GetConfig()
 				return not nzu.CurrentConfig or cfg.Codename ~= nzu.CurrentConfig.Codename or cfg.Type ~= nzu.CurrentConfig.Type
