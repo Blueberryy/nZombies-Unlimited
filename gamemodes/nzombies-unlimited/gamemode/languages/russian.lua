@@ -77,7 +77,7 @@ LANGUAGE.missing_addons_click_workshop = "Нажмите на надпись, ч
 LANGUAGE.load_anyway                 = "Загрузить в любом случае"
 
 -- Wall Buys (lobby)
-LANGUAGE.wall_buys                   = "Оружие со стены"
+LANGUAGE.wall_buys                   = "Wall Buys"
 LANGUAGE.invalid_wall_buy            = "Недопустимое Оружие"
 LANGUAGE.replacement_wall_buy        = "Заменительное Оружие"
 
